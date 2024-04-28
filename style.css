@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+.figma{
+    margin-left: 5%;
+    margin-top: 2%;
+    position: absolute;
+}
+
+.feel{
+
+    position:relative ;
+    margin-left: 58%;
+    height: 2%;
+    width: 25%;
+    margin-top: 2%;
+    
+}
+
+/* .study{
+    margin-left: 5%;
+} */
+
+.clor{
+    color: blue;
+}
+h1{
+    color: aliceblue;
+    margin-left: 5%;
+    margin-top: 30%;
+}
+
+p{
+    color: white;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.group2, button{
+    border: transparent;
+    border-color: black;
+    width: 50%;
+    margin-left: 22%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+
+
+form {
+    background-color:#4f3eae;
+    color: white;
+    margin: 0 auto;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  label {
+    background-color: #4f3eae;
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    background-color: white;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  textarea {
+    font-size: xx-large;
+    background-color: white;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #4f3eae;
+    resize: vertical;  /* Allow resizing textarea vertically */
+  }
+  
+  input[type="submit"] {
+    background-color: #6a50e9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 80%;
+    position: relative;
+    width: 20%;
+  }
+
+  h2{
+    background-color: #4f3eae;
+  }
+  
+
+
